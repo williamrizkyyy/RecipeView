@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Resep Roti</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Value">    $7,00</string>
+    <string name="Safanah">  Safanah Bread</string>
+    <string name="Make">  Make Your Day!!</string>
+    <string name="content_text">
+        Safanah Bread make from original grain
+        original bread make from original and organic
+        ingridients,multiviamin bread
+        consists vit A, vit B, Vit D. </string>
+    <string name="howtomake">
+        Get Safanah Bread in your city
+        avalaible now in nearest supermarket.
+        High quality bread product, nutritious,
+        and cheapest then the other bread ever.
+    </string>
+    <string name="receipe">  Grain Bread</string>
+    <string name="bread">
+        1. Soak the grains.
+            Soak your whole grains and any seeds
+            if using in hot water to moisten them.
+    </string>
+    <string name="bread2">
+        2. Make the dough.
+            Mix a dough using flour, your soaked grains,
+            sweetener (like honey or brown sugar), yeast, salt,
+            and more water.Knead the dough,
+            either with your hands or with a stand mixer
+            fitted with a dough attachment.
+            Work the dough until it transforms
+            from a sticky dough into a somewhat smooth dough.
+    </string>
+    <string name="bread3">
+        3. Shape the loaf.
+            Let your log rest for a few minutes on the counter,
+            then pat your loaf into a flat rectangle.
+            Then, for a sandwich bread,
+            roll your dough into a log that will fit into your loaf pan.
+            Tuck your log, seam side down, into a lightly oiled loaf pan.
+    </string>
+    <string name="bread4">
+        4. Proof the loaf.
+            Find a warm place for your dough to hang out for
+            an hour or two,
+            cover it with plastic wrap, a clean kitchen towel,
+            or a plastic shower cap, so that the top of the dough
+            won’t dry out,
+            allow your dough to rise, or proof, in the loaf pan until doubled
+            in size.
+    </string>
+    <string name="bread5">
+        5. Bake the loaf.
+            Once your loaf has fully risen, it’s time to bake it,
+            to mimic the environment of a professional baker’s
+            steam oven,
+            place a dish of water or ice cubes at the bottom of the oven,
+            rotate your loaf halfway through baking,
+            and don’t take it out until it’s nicely browned on the outside.
+    </string>
+
+</resources>
